@@ -115,7 +115,9 @@ integrating **Graph Neural Network (CGCNN, MEGNet, SchNet) embeddings** with
 
 ## 📜 License
 
-License information will be added in a future update.
+This project is licensed under the Apache License 2.0.
+See the LICENSE file for full license text.
+
 
 ---
 
