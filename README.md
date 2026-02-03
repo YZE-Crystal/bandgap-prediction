@@ -81,6 +81,7 @@ The recommended execution order is as follows:
 - `LightGBM.ipynb`
 - `MLP.ipynb`
 - `Ftt.ipynb`
+- 'Random Forest.ipynb'
 
 ### 5. Ensemble Learning
 - Run `stack.ipynb` to generate the final hybrid predictions
