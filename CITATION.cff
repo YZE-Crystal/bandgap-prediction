@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+title: "Hybrid Graph–Machine Learning Framework for Accurate and Interpretable Band Gap Prediction"
+
+authors:
+  - family-names: ALKAN
+    given-names: Onur Bahattin
+  - family-names: ERYILMAZ
+    given-names: Kaya
+  - family-names: KOCAGÖZ
+    given-names: Pınar
+
+
+version: 1.0.0
+date-released: 2026-02-03
+
+repository-code: "https://github.com/YZE-Crystal/bandgap-prediction"
+
+license: Apache-2.0
+
+keywords:
+  - band gap prediction
+  - materials informatics
+  - graph neural networks
+  - machine learning
+  - crystal structures
